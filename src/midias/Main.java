@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("\n--- Música ---");
         musica.exibirInformacoes();
-
+        
         System.out.println("\n--- Podcast ---");
         podcast.exibirInformacoes();
     }

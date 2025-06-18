@@ -8,7 +8,6 @@ public class Musica extends Midia {
         this.artista = artista;
     }
 
-    @Override
     public void exibirInformacoes() {
         super.exibirInformacoes();
         System.out.println("Artista: " + artista);

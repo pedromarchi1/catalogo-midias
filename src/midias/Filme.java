@@ -8,7 +8,6 @@ public class Filme extends Midia {
         this.diretor = diretor;
     }
 
-    @Override
     public void exibirInformacoes() {
         super.exibirInformacoes();
         System.out.println("Diretor: " + diretor);
